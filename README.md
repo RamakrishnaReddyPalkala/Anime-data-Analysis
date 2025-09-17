@@ -24,13 +24,18 @@ $4) Which studios dominate production?
 
 ## Repository Structure
 
-├── data/                  # Raw and cleaned datasets
+├── data/   
+
+
 │   ├── raw_data.csv
 │   ├── cleaned_data.csv
 │
 
 
-├── notebooks/             # Jupyter notebooks for EDA
+
+├── notebooks/ 
+
+
 │   ├── Anime_scrap.ipynb
     ├── Anime_clean.ipynb
     ├── Anime_EDA.ipynb
@@ -38,7 +43,7 @@ $4) Which studios dominate production?
 │
 
 │
-├── README.md              # Project documentation
+├── README.md             n
 
 
 
@@ -74,25 +79,25 @@ BeautifulSoup / Requests → web scraping
 
 
 
-###### Key Insights
+##### Key Insights
 
-User ratings are mostly positive – very few anime are rated poorly.
+-- User ratings are mostly positive – very few anime are rated poorly.
 
-Popularity does not equal quality – hidden gems exist that are highly rated but not widely known.
+-- Popularity does not equal quality – hidden gems exist that are highly rated but not widely known.
 
-TV anime dominate – typically 12–26 episodes per season.
+-- TV anime dominate – typically 12–26 episodes per season.
 
-Genre trends – mainstream genres like Action and Comedy dominate, but niche genres exist for targeted audiences.
+-- Genre trends – mainstream genres like Action and Comedy dominate, but niche genres exist for targeted audiences.
 
-Production concentration – a few studios produce the majority of influential anime.
+-- Production concentration – a few studios produce the majority of influential anime.**
 
 
 
 
 ###### Real-World Applications
 
-For streaming platforms: Improve recommendation systems by highlighting underrated, highly rated anime.
-
-For studios: Optimize production strategies (shorter, higher-quality shows tend to rate better).
-
-For fans: Discover hidden gems outside of mainstream popular titles.
+    For streaming platforms: Improve recommendation systems by highlighting underrated, highly rated anime.
+    
+    For studios: Optimize production strategies (shorter, higher-quality shows tend to rate better).
+    
+    For fans: Discover hidden gems outside of mainstream popular titles.
