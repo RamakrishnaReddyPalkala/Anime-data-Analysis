@@ -1,7 +1,7 @@
 📊 Anime Data Analysis 
 
 
-This project explores Anime data collected through web scraping. I performed exploratory data analysis (EDA) to uncover trends in ratings, popularity, genres, studios, and episode counts. The analysis highlights key industry patterns such as which genres dominate, how ratings relate to popularity, and the influence of major studios
+**This project explores Anime data collected through web scraping. I performed exploratory data analysis (EDA) to uncover trends in ratings, popularity, genres, studios, and episode counts. The analysis highlights key industry patterns such as which genres dominate, how ratings relate to popularity, and the influence of major studios**
 
 
 
@@ -18,7 +18,7 @@ The goal is to understand patterns and relationships in the anime industry, such
 
 3) Is popularity related to ratings?
 
-$4) Which studios dominate production?
+4) Which studios dominate production?
 
 
 
