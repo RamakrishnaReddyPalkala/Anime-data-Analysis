@@ -5,7 +5,7 @@ This project explores Anime data collected through web scraping. I performed exp
 
 
 
-📌 Project Overview
+# Project Overview
 
 This project focuses on analyzing Anime data to uncover key insights about ratings, popularity, genres, studios, and more.
 The dataset was collected through web scraping, followed by data cleaning and exploratory data analysis (EDA).
@@ -22,7 +22,7 @@ $4) Which studios dominate production?
 
 
 
-📂 Repository Structure
+## Repository Structure
 
 ├── data/                  # Raw and cleaned datasets
 │   ├── raw_data.csv
@@ -43,7 +43,7 @@ $4) Which studios dominate production?
 
 
 
-⚙️ Technologies Used
+### Technologies Used
 
 Python
 
@@ -56,25 +56,25 @@ BeautifulSoup / Requests → web scraping
 
 
 
-📊 Exploratory Data Analysis Highlights
+#### Exploratory Data Analysis Highlights
 
--Ratings Distribution: Most anime are rated between 6–8, showing viewer bias towards positive reviews.
-
--Popularity Distribution: A few anime dominate global popularity, while most remain niche.
-
--Genres: Action, Comedy, and Adventure are the most frequent genres.
-
--Studios: A handful of studios (e.g., Toei Animation, Madhouse, Sunrise) dominate the industry.
-
--Episodes vs Ratings: No strong correlation, but extremely long-running shows tend to have slightly lower ratings.
-
--Correlation Analysis: Popularity and ratings show weak correlation → hype ≠ quality.
-
-
+    Ratings Distribution: Most anime are rated between 6–8, showing viewer bias towards positive reviews.
+    
+    Popularity Distribution: A few anime dominate global popularity, while most remain niche.
+    
+    Genres: Action, Comedy, and Adventure are the most frequent genres.
+    
+    Studios: A handful of studios (e.g., Toei Animation, Madhouse, Sunrise) dominate the industry.
+    
+    Episodes vs Ratings: No strong correlation, but extremely long-running shows tend to have slightly lower ratings.
+    
+    Correlation Analysis: Popularity and ratings show weak correlation → hype ≠ quality.
 
 
 
-📌 Key Insights
+
+
+###### Key Insights
 
 User ratings are mostly positive – very few anime are rated poorly.
 
@@ -89,7 +89,7 @@ Production concentration – a few studios produce the majority of influential a
 
 
 
-🚀 Real-World Applications
+###### Real-World Applications
 
 For streaming platforms: Improve recommendation systems by highlighting underrated, highly rated anime.
 
