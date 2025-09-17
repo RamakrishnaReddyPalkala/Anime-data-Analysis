@@ -1,4 +1,6 @@
 📊 Anime Data Analysis 
+
+
 This project explores Anime data collected through web scraping. I performed exploratory data analysis (EDA) to uncover trends in ratings, popularity, genres, studios, and episode counts. The analysis highlights key industry patterns such as which genres dominate, how ratings relate to popularity, and the influence of major studios
 
 
@@ -16,6 +18,8 @@ Do longer anime series have better ratings?
 Is popularity related to ratings?
 
 Which studios dominate production?
+
+
 
 📂 Repository Structure
 ├── data/                  # Raw and cleaned datasets
@@ -58,6 +62,8 @@ Correlation Analysis: Popularity and ratings show weak correlation → hype ≠ 
 📌 Key Insights
 
 User ratings are mostly positive – very few anime are rated poorly.
+
+
 
 Popularity does not equal quality – hidden gems exist that are highly rated but not widely known.
 
